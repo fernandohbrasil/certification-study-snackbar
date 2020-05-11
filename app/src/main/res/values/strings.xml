@@ -1,3 +1,26 @@
 <resources>
-    <string name="app_name">Certification Study Snackbar</string>
+    <string name="app_name">Google Certification Study Snackbar</string>
+    <string name="show">Show</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="duration">Duration</string>
+    <string name="fade">Fade</string>
+    <string name="slide">Slide</string>
+    <string name="animation_mode">Animation Mode</string>
+    <string name="short_duration">Short</string>
+    <string name="long_duration">Long</string>
+    <string name="indefinite_duration">Indefinite</string>
+    <string name="type_here">Type here the content of your SnackBar</string>
+    <string name="text">Text</string>
+    <string name="background_snackbar">Background SnackBar</string>
+    <string name="text_color">Text Color</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="purple">Purple</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <string name="action_color">Action Color</string>
 </resources>
