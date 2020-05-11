@@ -10,14 +10,14 @@ The purpose of this application was to explore some possibilities that [SnackBar
 
 The following methods were covered
 
-* B addCallback (BaseCallback<B> callback)
-* void dismiss()
-* Snackbar setAnimationMode(int animationMode)
-* Snackbar setActionTextColor (int color)
-* Snackbar setAction (CharSequence text, View.OnClickListener listener)
-* Snackbar setBackgroundTint (int color)
-* Snackbar setTextColor (int color)
-* void show()
+  * B addCallback(BaseCallback<B> callback)
+  * void dismiss()
+  * Snackbar setAnimationMode(int animationMode)
+  * Snackbar setActionTextColor (int color)
+  * Snackbar setAction (CharSequence text, View.OnClickListener listener)
+  * Snackbar setBackgroundTint (int color)
+  * Snackbar setTextColor (int color)
+  * void show()
 
 ## Screenshots
 
