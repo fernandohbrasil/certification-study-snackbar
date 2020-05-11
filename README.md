@@ -10,7 +10,7 @@ The purpose of this application was to explore some possibilities that [SnackBar
 
 The following methods were covered
 
-  * B addCallback(BaseCallback<B> callback)
+  * B addCallback(BaseCallback<Snackbar> callback)
   * void dismiss()
   * Snackbar setAnimationMode(int animationMode)
   * Snackbar setActionTextColor (int color)
